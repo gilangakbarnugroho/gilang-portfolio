@@ -316,6 +316,7 @@ body.active { overflow: hidden; }
 }
 
 .logo {
+  align-content: center;
   position: relative;
   min-width: 25px;
   min-height: 34px;
