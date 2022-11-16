@@ -20,7 +20,7 @@
    * colors
    */
 
-  --raw-seinna: hsl(24, 74%, 58%);
+  --raw-seinna: #D1B66B;
   --sizzling-sunrise: hsl(51, 95%, 54%);
   --scarlet: hsl(13, 96%, 47%);
   --black: hsl(0, 0%, 0%);
@@ -157,7 +157,7 @@ ion-icon { pointer-events: none; }
 }
 
 html {
-  font-family: var(--ff-roboto);
+  font-family: var(--ff-poppins);
   scroll-behavior: smooth;
 }
 
@@ -225,7 +225,7 @@ body.active { overflow: hidden; }
   color: var(--black);
 }
 
-.btn-secondary:is(:hover, :focus) { --raw-seinna: hsl(24, 74%, 64%); }
+.btn-secondary:is(:hover, :focus) { --raw-seinna: #D1B66B; }
 
 .section-subtitle {
   position: relative;
@@ -305,6 +305,18 @@ body.active { overflow: hidden; }
   gap: 10px;
 }
 
+.nav-logo {
+  position: relative;
+  min-width:fit-content;
+  align-items: center;
+  column-gap: 0,25rem;
+  display: flex;
+}
+
+.nav-logo {
+  color: #D1B66B;
+  
+}
 .logo {
   position: relative;
   min-width: 77px;
@@ -313,7 +325,7 @@ body.active { overflow: hidden; }
 
 .logo a {
   color: var(--color-primary);
-  font-family: var(--ff-saira-stencil-one);
+  font-family: var(--ff-poppins);
 }
 
 .logo span {
