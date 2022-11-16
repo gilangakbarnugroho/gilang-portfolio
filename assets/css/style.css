@@ -180,7 +180,7 @@ body.active { overflow: hidden; }
 
 .h2 {
   color:var(--color-primary);
-  font-weight: 50;
+  font-weight: var(--fs-5);
   font-display: var(--ff-open-sans);
 }
 .h3,
