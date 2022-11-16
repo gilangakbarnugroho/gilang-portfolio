@@ -176,7 +176,6 @@ body.active { overflow: hidden; }
   font-display: var(--ff-poppins);
   font-weight: 300;
   line-height: 1.2;
-  font-weight: 400;
 }
 
 .h2,
