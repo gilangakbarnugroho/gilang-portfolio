@@ -316,6 +316,7 @@ body.active { overflow: hidden; }
   position: relative;
   min-width:fit-content;
   font-weight: 300;
+  padding: 10px;
 }
 
 .nav-logo {
