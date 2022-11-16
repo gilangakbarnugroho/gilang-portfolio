@@ -317,7 +317,8 @@ body.active { overflow: hidden; }
 
 .logo {
   position: relative;
-  min-width: 77px;
+  min-width: 25px;
+  min-height: 34px;
   z-index: 2;
 }
 
