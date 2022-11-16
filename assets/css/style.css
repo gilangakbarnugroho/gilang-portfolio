@@ -251,7 +251,7 @@ body.active { overflow: hidden; }
 }
 
 .section-text {
-  font-family: sans-serif;
+  font-family: var(--ff-open-sans);
   color: var(--color-secondary);
   align-self: autoj;
   line-height: 1.8;
