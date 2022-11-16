@@ -893,6 +893,7 @@ textarea.input-field {
 .footer .logo { margin-bottom: 15px; }
 
 .copyright {
+  font-family: var(--ff-open-sans);
   color: var(--color-secondary);
   line-height: 1.6;
 }
@@ -900,6 +901,7 @@ textarea.input-field {
 .copyright a {
   display: inline-block;
   color: var(--raw-seinna);
+  line-height: 1.6;
 }
 
 
