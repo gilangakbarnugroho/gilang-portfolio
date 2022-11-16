@@ -570,6 +570,7 @@ main { overflow-x: hidden; }
 .about { padding-block: var(--section-padding); }
 
 .about-banner {
+  justify-content: baseline;
   max-width: 400px;
   margin-inline: auto;
   margin-bottom: 80px;
