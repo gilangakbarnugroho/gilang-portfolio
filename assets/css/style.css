@@ -316,6 +316,7 @@ body.active { overflow: hidden; }
 }
 
 .logo {
+  display: flex;
   align-content: center;
   position: relative;
   min-width: 25px;
