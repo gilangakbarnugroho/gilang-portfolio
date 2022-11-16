@@ -338,9 +338,10 @@ body.active { overflow: hidden; }
 }
 
 .logo span {
+  align-items: center;
   display: inline-block;
   color: var(--raw-seinna);
-  column-gap: 0.25rem;
+  column-gap: 0.5rem;
 }
 
 .navbar-actions {
