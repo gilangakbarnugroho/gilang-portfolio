@@ -899,6 +899,7 @@ textarea.input-field {
 }
 
 .copyright a {
+  font-family: var(--ff-poppins);
   display: inline-block;
   color: var(--raw-seinna);
   line-height: 1.6;
