@@ -180,6 +180,8 @@ body.active { overflow: hidden; }
 
 .h1 {
   font-size: var(--fs-1);
+  font-display: var(--ff-poppins);
+  font-weight: 300;
   line-height: 1.2;
   font-weight: 400;
 }
