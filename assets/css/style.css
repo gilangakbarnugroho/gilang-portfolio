@@ -338,7 +338,7 @@ body.active { overflow: hidden; }
 }
 
 .logo span {
-  align-items: center;
+  align-items: baseline;
   display: inline-block;
   color: var(--raw-seinna);
   column-gap: 0.5rem;
