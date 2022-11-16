@@ -893,7 +893,7 @@ textarea.input-field {
 .footer .logo { margin-bottom: 15px; }
 
 .copyright {
-  font-family: var(--ff-open-sans);
+  font-family: var(--ff-poppins);
   color: var(--color-secondary);
   line-height: 1.6;
 }
