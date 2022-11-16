@@ -248,6 +248,7 @@ body.active { overflow: hidden; }
 
 .section-text {
   color: var(--color-secondary);
+  justify-content: baseline;
   line-height: 1.8;
   margin-bottom: 30px;
 }
