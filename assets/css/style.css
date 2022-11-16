@@ -253,8 +253,9 @@ body.active { overflow: hidden; }
 .section-text {
   font-family: var(--ff-open-sans);
   color: var(--color-secondary);
-  text-justify: auto;
   align-self: auto;
+  text-align: justify;
+  text-justify: inter-word;
   line-height: 1.8;
   margin-bottom: 30px;
 }
