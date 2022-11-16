@@ -303,17 +303,16 @@ body.active { overflow: hidden; }
 }
 
 .nav-logo {
+  display: flex;
   position: relative;
+  color: #D1B66B;
   min-width:fit-content;
   align-items: center;
   column-gap: 0,25rem;
   font-weight: 300;
+  font-size: 1.375rem;
 }
 
-.nav-logo {
-  color: #D1B66B;
-  
-}
 .logo {
   position: relative;
   min-width: 77px;
