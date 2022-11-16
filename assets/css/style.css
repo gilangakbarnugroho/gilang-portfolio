@@ -178,7 +178,9 @@ body.active { overflow: hidden; }
   font-weight: 300;
 }
 
-.h2,
+.h2 {
+  font-weight: 100;
+}
 .h3,
 .h4 {
   color: var(--color-primary);
@@ -248,7 +250,7 @@ body.active { overflow: hidden; }
 
 .section-text {
   color: var(--color-secondary);
-  align-self: auto;
+  align-self: autoj;
   line-height: 1.8;
   margin-bottom: 30px;
 }
