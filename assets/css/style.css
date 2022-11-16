@@ -30,9 +30,9 @@
    * typography
    */
 
-  --ff-saira-stencil-one: "Saira Stencil One", sans-serif; 
+  --ff-poppins: "Poppins", sans-serif; 
   --ff-poppins: 'Poppins', sans-serif;
-  --ff-roboto: 'Roboto', sans-serif;
+  --ff-open-sans: 'Open Sans', sans-serif;
 
   --fs-1: 2rem;
   --fs-2: calc(1.813rem + 1vw);
