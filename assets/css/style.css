@@ -311,6 +311,7 @@ body.active { overflow: hidden; }
   column-gap: 0,25rem;
   font-weight: 300;
   font-size: 1.375rem;
+  color: var(--bg-primary);
 }
 
 .nav-logo {
