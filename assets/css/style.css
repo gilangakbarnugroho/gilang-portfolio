@@ -303,6 +303,7 @@ body.active { overflow: hidden; }
 }
 
 .nav-logo {
+  color: var(--bg-primary);
   display: flex;
   position: relative;
   min-width:fit-content;
