@@ -179,7 +179,7 @@ body.active { overflow: hidden; }
 }
 
 .h2 {
-  color:var(--color-primary);''
+  color:var(--color-primary);
   font-weight: var(--fs-2);
   font-display: var(--ff-open-sans);
 }
@@ -251,7 +251,7 @@ body.active { overflow: hidden; }
 }
 
 .section-text {
-  font-display: var(--fs-5);
+  font-family: sans-serif;
   color: var(--color-secondary);
   align-self: autoj;
   line-height: 1.8;
