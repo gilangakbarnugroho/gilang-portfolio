@@ -249,7 +249,7 @@ body.active { overflow: hidden; }
 .section-text {
   color: var(--color-secondary);
   align-content: flex-start;
-  -ms-text-justify: auto;
+  text-justify: auto;
   line-height: 1.8;
   margin-bottom: 30px;
 }
