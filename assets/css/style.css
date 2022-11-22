@@ -498,7 +498,7 @@ main { overflow-x: hidden; }
   max-width: 500px;
   width: 125%;
   margin-bottom: 30px;
-  border-radius: var(--radius-12);
+  border-radius: var(--radius-24);
   box-shadow: 2px 4px 6px hsla(0, 0%, 0%, 0.2);
 }
 
