@@ -502,10 +502,7 @@ main { overflow-x: hidden; }
 
 :is(.hero-social-list, .scroll-down) { display: none; }
 
-.hero-content { max-width: 450px; 
-  border-radius: var(--radius-12);
-  box-shadow: 2px 4px 6px hsla(0, 0%, 0%, 0.2);
-}
+.hero-content { max-width: 450px; }
 
 .hero-title {
   text-align: center;
