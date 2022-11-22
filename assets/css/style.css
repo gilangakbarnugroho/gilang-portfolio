@@ -492,14 +492,14 @@ main { overflow-x: hidden; }
   align-items: center;
   padding-top: 115px;
   margin-bottom: var(--section-padding);
-  border-radius: var(--radius-12);
-  box-shadow: 2px 4px 6px hsla(0, 0%, 0%, 0.2);
 }
 
 .hero-banner {
   max-width: 500px;
   width: 125%;
   margin-bottom: 30px;
+  border-radius: var(--radius-12);
+  box-shadow: 2px 4px 6px hsla(0, 0%, 0%, 0.2);
 }
 
 :is(.hero-social-list, .scroll-down) { display: none; }
