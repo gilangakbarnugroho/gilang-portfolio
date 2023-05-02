@@ -1322,6 +1322,7 @@ textarea.input-field {
   .footer .logo { 
     margin-bottom: 0;
     position: relative;
+    align-content: center;
     padding: 0px 10px 0px 10px }
 
 }
