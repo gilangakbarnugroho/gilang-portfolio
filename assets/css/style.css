@@ -1319,7 +1319,10 @@ textarea.input-field {
     align-items: center;
   }
 
-  .footer .logo { margin-bottom: 0; }
+  .footer .logo { 
+    margin-bottom: 0;
+    position: relative;
+    padding: 0px 10px 0px 10px }
 
 }
 
