@@ -52,9 +52,9 @@
           <option value="ar">In</option>
         </select>
 
-        <button class="theme-btn" aria-label="Change Theme" title="Change Theme" data-theme-btn>
-          <span class="icon"></span>
-        </button>
+        <#button class="theme-btn" aria-label="Change Theme" title="Change Theme" data-theme-btn>
+          <#span class="icon"><#/span>
+        <#/button>
 
       </div>
 
@@ -109,17 +109,10 @@
         <figure class="hero-banner">
 
           <picture>
-            <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-              <iframe src="https://giphy.com/embed/3o85xCVo1diTHyIoPC" 
-                width="100%" 
-                height="100%" 
-                style="position:absolute" 
-                frameBorder="0" 
-                class="giphy-embed" 
-                allowFullScreen>
-              </iframe>
-            </div>
-            <p><a href="https://giphy.com/gifs/motionaddicts-earth-day-earthday-3o85xCVo1diTHyIoPC"></a></p>
+            <source srcset="./assets/images/hero-banner1.gif" media="(min-width: 768px)">
+            <source srcset="./assets/images/hero-banner1.gif" media="(min-width: 500px)">
+            <img src="./assets/images/hero-banner1.gif" alt="A man in a blue shirt with a happy expression"
+              class="w-100">
           </picture>
 
         </figure>
